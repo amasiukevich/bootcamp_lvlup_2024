@@ -1,0 +1,9 @@
+fasttext
+scikit-learn
+numpy
+pandas
+seaborn
+transformers[torch]
+ipykernel
+re
+gensim
